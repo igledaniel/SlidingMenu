@@ -85,7 +85,7 @@
 
 					<configuration>
 						<sdk>
-							<platform>16</platform>
+							<platform>18</platform>
 						</sdk>
 						<undeployBeforeDeploy>true</undeployBeforeDeploy>
 					</configuration>
