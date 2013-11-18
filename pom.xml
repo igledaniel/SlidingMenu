@@ -23,7 +23,7 @@
 	</scm>
 
 	<properties>
-	  <internal.repo.path>file://${basedir}/mvn-repo/</internal.repo.path>
+	  <internal.repo.path>file://${basedir}/../mvn-repo/</internal.repo.path>
 	</properties>
 
 	<developers>
